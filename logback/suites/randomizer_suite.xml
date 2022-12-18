@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Randomizer Suite">
+
+    <listeners>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+    </listeners>
+
+    <test verbose="1" name="Randomizer Boundaries Tests">
+        <classes>
+            <class name="com.epam.rp.tests.randomizer.TestRandomizerBoundaries"/>
+        </classes>
+    </test>
+    <test verbose="1" name="Randomizer Logic Tests">
+        <classes>
+            <class name="com.epam.rp.tests.randomizer.TestRandomizer"/>
+        </classes>
+    </test>
+</suite>

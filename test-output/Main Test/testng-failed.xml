@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="Failed suite [Main Test]">
+  <test name="Test Orange(failed)" preserve-order="false">
+    <classes>
+      <class name="Test.TestUserCreation">
+        <methods>
+          <include name="userCreation"/>
+          <include name="before_suite"/>
+          <include name="getResult"/>
+          <include name="closeDriver"/>
+          <include name="before_Class"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,533 @@
+2020-05-21 18:24:27,924 INFO  [Log] **************************************************************************************** 
+2020-05-21 18:24:27,926 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-21 18:24:27,926 INFO  [Log] **************************************************************************************** 
+2020-05-21 18:24:33,136 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-21 18:24:36,142 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-21 18:24:38,145 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-21 18:25:23,404 INFO  [Log] **************************************************************************************** 
+2020-05-21 18:25:23,558 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-21 18:25:23,558 INFO  [Log] **************************************************************************************** 
+2020-05-21 18:25:29,894 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-21 18:25:32,918 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-21 18:25:34,923 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-21 18:27:51,945 INFO  [Log] **************************************************************************************** 
+2020-05-21 18:27:51,946 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-21 18:27:51,946 INFO  [Log] **************************************************************************************** 
+2020-05-21 18:27:58,506 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-21 18:28:00,528 ERROR [Log] User navigation to the Orange Application Page 
+2020-05-27 12:27:29,977 INFO  [Log] **************************************************************************************** 
+2020-05-27 12:27:29,978 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 12:27:29,978 INFO  [Log] **************************************************************************************** 
+2020-05-27 12:27:37,791 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 12:27:40,802 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 12:27:49,884 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 12:27:51,887 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 12:29:44,223 INFO  [Log] **************************************************************************************** 
+2020-05-27 12:29:44,224 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 12:29:44,224 INFO  [Log] **************************************************************************************** 
+2020-05-27 12:29:50,804 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 12:29:53,821 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 12:30:02,861 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 12:30:04,865 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 15:45:42,039 INFO  [Log] **************************************************************************************** 
+2020-05-27 15:45:42,040 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 15:45:42,040 INFO  [Log] **************************************************************************************** 
+2020-05-27 15:45:48,680 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 15:45:51,697 INFO  [Log] Step Noation to the OrangeHRM Applicati: 2 - Pass - User navigon Page 
+2020-05-27 15:46:00,789 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 15:46:02,793 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 15:53:54,718 INFO  [Log] **************************************************************************************** 
+2020-05-27 15:53:54,720 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 15:53:54,720 INFO  [Log] **************************************************************************************** 
+2020-05-27 15:54:02,595 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 15:54:05,606 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 15:54:14,693 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 15:54:16,695 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 16:03:26,905 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:03:26,906 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 16:03:26,906 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:03:33,606 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 16:03:36,625 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 16:03:45,700 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 16:03:47,705 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 16:09:02,415 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:09:02,417 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 16:09:02,417 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:09:10,313 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 16:09:13,331 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 16:09:22,435 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 16:09:24,439 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 16:10:45,611 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:10:45,613 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 16:10:45,613 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:10:52,299 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 16:10:55,310 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 16:11:04,372 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 16:11:06,376 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 16:54:57,272 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:54:57,273 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 16:54:57,273 INFO  [Log] **************************************************************************************** 
+2020-05-27 16:55:05,044 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 16:55:08,051 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 16:55:17,139 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 16:55:19,143 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 19:24:25,596 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:24:25,597 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 19:24:25,597 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:24:32,212 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 19:24:35,222 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 19:24:44,331 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 19:24:46,334 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 19:30:29,073 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:30:29,075 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 19:30:29,075 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:30:36,757 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 19:30:39,775 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 19:30:48,865 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 19:30:50,869 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 19:31:30,142 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:31:30,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 19:31:30,144 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:31:36,866 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 19:31:39,883 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 19:31:48,975 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 19:31:50,977 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 19:35:13,845 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:35:13,846 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 19:35:13,847 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:35:21,697 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 19:35:24,703 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 19:35:33,832 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 19:35:35,835 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 19:40:14,626 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:40:14,627 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 19:40:14,627 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:40:22,249 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 19:40:25,267 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 19:40:34,343 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 19:40:36,347 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 19:41:34,195 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:41:34,196 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 19:41:34,196 INFO  [Log] **************************************************************************************** 
+2020-05-27 19:41:42,044 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 19:41:45,060 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 19:41:54,189 INFO  [Log] Step No: 3 - Pass - Logout from the application 
+2020-05-27 19:41:56,192 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:34:31,439 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:34:31,441 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:34:31,441 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:34:39,918 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:34:42,937 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:34:47,207 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:38:34,622 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:38:34,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:38:34,623 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:38:43,192 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:38:46,210 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:38:50,569 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:40:03,790 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:40:03,792 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:40:03,792 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:40:12,521 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:40:15,540 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:40:20,055 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:42:52,176 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:42:52,177 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:42:52,177 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:42:59,968 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:43:02,985 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:43:08,782 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-27 20:43:17,861 INFO  [Log] Step No: 4 - Pass -  Add User 
+2020-05-27 20:43:19,864 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:44:38,890 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:44:38,892 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:44:38,892 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:44:46,696 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:44:49,714 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:44:55,521 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-27 20:45:04,613 INFO  [Log] Step No: 4 - Pass -  Add User 
+2020-05-27 20:45:06,616 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:46:53,216 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:46:53,218 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:46:53,218 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:47:01,097 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:47:04,114 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:47:10,025 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-27 20:47:19,086 INFO  [Log] Step No: 4 - Pass -  Add User 
+2020-05-27 20:47:21,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:49:42,350 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:49:42,352 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:49:42,352 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:49:50,017 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:49:53,034 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:49:58,982 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-27 20:50:08,086 INFO  [Log] Step No: 4 - Pass -  Add User 
+2020-05-27 20:50:10,090 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-27 20:51:32,386 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:51:32,388 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-27 20:51:32,388 INFO  [Log] **************************************************************************************** 
+2020-05-27 20:51:41,419 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-27 20:51:44,437 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-27 20:51:50,339 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-27 20:51:59,452 INFO  [Log] Step No: 4 - Pass -  Logout from the application 
+2020-05-27 20:52:01,456 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 11:01:02,641 INFO  [Log] **************************************************************************************** 
+2020-05-28 11:01:02,643 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 11:01:02,643 INFO  [Log] **************************************************************************************** 
+2020-05-28 11:01:13,440 ERROR [Log]  Login to Application 
+2020-05-28 11:04:06,605 INFO  [Log] **************************************************************************************** 
+2020-05-28 11:04:06,606 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 11:04:06,606 INFO  [Log] **************************************************************************************** 
+2020-05-28 11:04:15,937 INFO  [Log] Step No: 1 - Pass -  Login to Application 
+2020-05-28 11:04:18,948 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 11:04:23,382 INFO  [Log] Step No: 3 - Pass -  Navigate to Add User page 
+2020-05-28 11:04:27,903 INFO  [Log] Step No: 4 - Pass -  Add User 
+2020-05-28 11:04:37,805 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 11:04:39,809 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 12:33:51,749 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:33:51,751 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:33:51,751 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:33:52,763 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:34:04,621 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 12:34:10,547 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 12:34:15,053 INFO  [Log] Step No: 4 - Pass -  The username- testusernameis available 
+2020-05-28 12:34:24,131 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 12:34:26,132 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 12:36:56,649 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:36:56,650 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:36:56,651 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:36:57,656 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:37:07,991 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 12:37:13,866 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 12:37:16,878 ERROR [Log]  Add User 
+2020-05-28 12:39:30,376 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:39:30,379 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:39:30,379 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:39:31,388 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:39:41,726 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 12:39:47,498 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 12:39:50,893 ERROR [Log]  Add User 
+2020-05-28 12:54:29,874 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:54:29,877 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:54:29,877 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:54:30,883 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:54:42,934 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 12:54:48,761 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 12:54:53,188 INFO  [Log] Step No: 4 - Pass -  The username- sampleusername is available 
+2020-05-28 12:55:02,204 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 12:55:04,208 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 12:55:20,642 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:55:20,643 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:55:20,644 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:55:21,648 INFO  [Log] Step No: 6 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:55:32,165 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2020-05-28 12:55:46,307 ERROR [Log]  Delete User 
+2020-05-28 12:57:58,669 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:57:58,670 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:57:58,671 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:57:59,677 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:58:10,780 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 12:58:16,602 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 12:58:20,090 ERROR [Log]  Add User 
+2020-05-28 12:58:29,594 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:58:29,595 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 12:58:29,595 INFO  [Log] **************************************************************************************** 
+2020-05-28 12:58:30,597 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 12:58:41,297 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2020-05-28 12:58:55,943 ERROR [Log]  Delete User 
+2020-05-28 13:01:07,750 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:01:07,751 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:01:07,751 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:01:08,757 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:01:19,684 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 13:01:25,499 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 13:01:29,941 INFO  [Log] Step No: 4 - Pass -  The username- exampleusername is available 
+2020-05-28 13:01:38,980 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 13:01:40,981 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 13:01:50,658 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:01:50,658 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:01:50,659 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:01:51,662 INFO  [Log] Step No: 6 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:02:01,869 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2020-05-28 13:02:08,132 INFO  [Log] Step No: 8 - Pass -  Delete User 
+2020-05-28 13:02:11,586 ERROR [Log]  Delete User 
+2020-05-28 13:05:07,952 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:05:07,955 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:05:07,955 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:05:08,962 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:05:20,068 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 13:05:25,868 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 13:05:29,892 ERROR [Log]  Add User 
+2020-05-28 13:05:39,848 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:05:39,850 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:05:39,851 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:05:40,857 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:05:51,318 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2020-05-28 13:06:06,452 ERROR [Log]  Delete User 
+2020-05-28 13:20:07,681 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:20:07,683 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:20:07,684 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:20:08,690 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:20:19,627 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 13:20:21,687 ERROR [Log]  Add User 
+2020-05-28 13:20:32,291 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:20:32,292 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:20:32,292 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:20:33,297 INFO  [Log] Step No: 3 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:20:43,423 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2020-05-28 13:20:45,453 ERROR [Log]  Delete User 
+2020-05-28 13:23:08,613 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:23:08,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:23:08,614 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:23:09,620 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:23:20,893 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 13:23:22,951 ERROR [Log]  Add User 
+2020-05-28 13:23:32,768 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:23:32,768 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:23:32,768 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:23:33,773 INFO  [Log] Step No: 3 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:23:44,809 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2020-05-28 13:23:46,835 ERROR [Log]  Delete User 
+2020-05-28 13:27:18,373 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:27:18,375 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:27:18,375 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:27:19,380 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:27:30,388 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 13:27:36,375 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 13:27:41,148 ERROR [Log]  Add User 
+2020-05-28 13:27:50,878 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:27:50,878 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:27:50,878 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:27:51,881 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:28:01,767 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2020-05-28 13:28:15,936 ERROR [Log]  Delete User 
+2020-05-28 13:32:37,057 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:32:37,058 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:32:37,058 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:32:38,065 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:32:48,617 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 13:32:54,484 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 13:32:59,962 INFO  [Log] Step No: 4 - Pass -  The username- exampleusername2020-05-28 13-32 is available 
+2020-05-28 13:33:09,036 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 13:33:11,038 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 13:33:20,021 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:33:20,022 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 13:33:20,022 INFO  [Log] **************************************************************************************** 
+2020-05-28 13:33:21,024 INFO  [Log] Step No: 6 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 13:33:31,349 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2020-05-28 13:33:38,046 INFO  [Log] Step No: 8 - Pass -  Delete User 
+2020-05-28 13:33:42,385 ERROR [Log]  Delete User 
+2020-05-28 15:43:02,942 INFO  [Log] **************************************************************************************** 
+2020-05-28 15:43:02,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 15:43:02,943 INFO  [Log] **************************************************************************************** 
+2020-05-28 15:43:03,948 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 15:43:12,369 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 15:43:18,380 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 15:43:24,033 INFO  [Log] Step No: 4 - Pass -  The username- exampleusername2020-05-28 15-42 is available 
+2020-05-28 15:43:33,071 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 15:43:35,075 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 15:43:44,164 INFO  [Log] **************************************************************************************** 
+2020-05-28 15:43:44,164 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 15:43:44,165 INFO  [Log] **************************************************************************************** 
+2020-05-28 15:43:45,168 INFO  [Log] Step No: 6 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 15:43:54,160 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2020-05-28 15:44:00,570 INFO  [Log] Step No: 8 - Pass -  Delete User 
+2020-05-28 15:44:05,060 ERROR [Log]  The username- exampleusername2020-05-28 15-42 is not available 
+2020-05-28 19:01:09,542 INFO  [Log] **************************************************************************************** 
+2020-05-28 19:01:09,566 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 19:01:09,566 INFO  [Log] **************************************************************************************** 
+2020-05-28 19:01:10,573 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 19:01:20,255 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-28 19:01:26,265 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-28 19:01:31,824 INFO  [Log] Step No: 4 - Pass -  The username- exampleusername2020-05-28 19-00 is available 
+2020-05-28 19:01:40,907 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-28 19:01:42,910 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-28 19:01:52,556 INFO  [Log] **************************************************************************************** 
+2020-05-28 19:01:52,557 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-28 19:01:52,557 INFO  [Log] **************************************************************************************** 
+2020-05-28 19:01:53,560 INFO  [Log] Step No: 6 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-28 19:02:02,422 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2020-05-28 19:02:09,199 INFO  [Log] Step No: 8 - Pass -  Delete User 
+2020-05-28 19:02:13,549 ERROR [Log]  The username- exampleusername2020-05-28 19-00 is not available 
+2020-05-29 13:42:16,135 INFO  [Log] **************************************************************************************** 
+2020-05-29 13:42:16,136 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-29 13:42:16,136 INFO  [Log] **************************************************************************************** 
+2020-05-29 13:42:17,142 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-29 13:42:25,407 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2020-05-29 13:42:31,188 INFO  [Log] Step No: 3 - Pass -  Add User 
+2020-05-29 13:42:36,699 INFO  [Log] Step No: 4 - Pass -  The username- exampleusername2020-05-29 13-42 is available 
+2020-05-29 13:42:45,727 INFO  [Log] Step No: 5 - Pass -  Logout from the application 
+2020-05-29 13:42:47,731 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2020-05-29 13:42:56,799 INFO  [Log] **************************************************************************************** 
+2020-05-29 13:42:56,799 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2020-05-29 13:42:56,799 INFO  [Log] **************************************************************************************** 
+2020-05-29 13:42:57,803 INFO  [Log] Step No: 6 - Pass - User navigation to the OrangeHRM Application Page 
+2020-05-29 13:43:06,149 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2020-05-29 13:43:12,814 INFO  [Log] Step No: 8 - Pass -  Delete User 
+2020-05-29 13:43:17,147 ERROR [Log]  The username- exampleusername2020-05-29 13-42 is not available 
+2022-11-25 23:00:42,716 INFO  [Log] **************************************************************************************** 
+2022-11-25 23:00:42,720 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        CalenderHandling       $$$$$$$$$$$$$$$$$$$$$ 
+2022-11-25 23:00:42,720 INFO  [Log] **************************************************************************************** 
+2022-11-25 23:01:11,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-11-25 23:13:16,125 INFO  [Log] Step No: 1 - Pass - before calendar handling 
+2022-11-25 23:13:16,145 ERROR [Log] before calendar handling 
+2022-11-25 23:17:28,449 INFO  [Log] Step No: 1 - Pass - before calendar handling 
+2022-11-25 23:36:19,040 ERROR [Log] before calendar handling 
+2022-11-26 10:42:54,188 INFO  [Log] Step No: 1 - Pass - before calendar handling 
+2022-11-26 10:49:40,716 INFO  [Log] **************************************************************************************** 
+2022-11-26 10:49:43,420 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        CalenderHandling       $$$$$$$$$$$$$$$$$$$$$ 
+2022-11-26 10:49:46,382 INFO  [Log] **************************************************************************************** 
+2022-11-26 10:50:04,151 INFO  [Log] Step No: 1 - Pass - before calendar handling 
+2022-11-26 10:51:01,720 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-11-26 10:51:08,972 INFO  [Log] Step No: 2 - Pass - after calendar handling 
+2022-11-26 10:55:56,148 INFO  [Log] **************************************************************************************** 
+2022-11-26 10:55:56,151 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        CalenderHandling       $$$$$$$$$$$$$$$$$$$$$ 
+2022-11-26 10:55:56,151 INFO  [Log] **************************************************************************************** 
+2022-11-26 10:55:57,157 INFO  [Log] Step No: 1 - Pass - before calendar handling 
+2022-11-26 10:56:29,880 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-11-26 10:56:30,885 INFO  [Log] Step No: 2 - Pass - after calendar handling 
+2022-11-26 11:22:15,940 INFO  [Log] **************************************************************************************** 
+2022-11-26 11:22:15,948 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        CalenderHandling       $$$$$$$$$$$$$$$$$$$$$ 
+2022-11-26 11:22:15,949 INFO  [Log] **************************************************************************************** 
+2022-11-26 11:22:16,964 INFO  [Log] Step No: 1 - Pass - before calendar handling 
+2022-11-26 11:22:48,148 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-11-26 11:22:49,155 INFO  [Log] Step No: 2 - Pass - after calendar handling 
+2022-11-27 22:10:42,126 ERROR [Log]  
+2022-11-28 10:48:04,630 ERROR [Log]  
+2022-11-28 10:57:14,804 INFO  [Log] **************************************************************************************** 
+2022-11-28 10:57:14,810 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-11-28 10:57:14,811 INFO  [Log] **************************************************************************************** 
+2022-11-28 10:57:26,077 ERROR [Log]  
+2022-12-15 12:21:31,443 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:21:31,449 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 12:21:31,450 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:21:32,472 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-15 12:21:45,082 ERROR [Log]  Login to Application 
+2022-12-15 12:21:58,376 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:21:58,377 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 12:21:58,377 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:22:09,887 ERROR [Log]  
+2022-12-15 12:24:31,824 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:24:31,829 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 12:24:31,830 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:24:32,861 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-15 12:24:38,663 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-15 12:24:47,962 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-15 12:24:50,970 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-15 12:25:06,675 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:25:06,677 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 12:25:06,677 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:25:25,400 ERROR [Log]  
+2022-12-15 12:38:35,095 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:38:35,099 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 12:38:35,099 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:38:36,125 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-15 12:38:42,097 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-15 12:38:51,438 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-15 12:38:54,351 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-15 12:39:02,471 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:39:02,473 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 12:39:02,474 INFO  [Log] **************************************************************************************** 
+2022-12-15 12:39:07,278 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2022-12-15 12:39:21,451 INFO  [Log] Step No: 5 - Pass -  Add User 
+2022-12-15 12:39:27,987 INFO  [Log] Step No: 6 - Pass - send email 
+2022-12-15 12:39:29,989 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-15 13:10:27,401 INFO  [Log] **************************************************************************************** 
+2022-12-15 13:10:27,406 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 13:10:27,407 INFO  [Log] **************************************************************************************** 
+2022-12-15 13:10:28,440 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-15 13:10:34,318 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-15 13:10:43,647 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-15 13:10:46,739 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-15 13:10:57,974 INFO  [Log] **************************************************************************************** 
+2022-12-15 13:10:57,976 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 13:10:57,977 INFO  [Log] **************************************************************************************** 
+2022-12-15 13:11:02,467 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2022-12-15 13:11:16,734 INFO  [Log] Step No: 5 - Pass -  Add User 
+2022-12-15 13:11:22,889 INFO  [Log] Step No: 6 - Pass - send email 
+2022-12-15 13:11:24,900 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-15 13:11:34,812 INFO  [Log] **************************************************************************************** 
+2022-12-15 13:11:34,813 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-15 13:11:34,817 INFO  [Log] **************************************************************************************** 
+2022-12-15 13:11:39,078 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-15 13:11:41,122 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:37:05,959 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:37:05,965 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:37:05,966 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:37:07,011 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-16 18:37:12,915 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-16 18:37:15,942 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-16 18:37:19,278 ERROR [Log]  Delete User 
+2022-12-16 18:37:35,370 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:37:35,370 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:37:35,371 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:37:36,395 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-16 18:37:42,487 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-16 18:37:51,788 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-16 18:37:54,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:38:06,230 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:38:06,230 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:38:06,234 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:38:11,048 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-16 18:38:25,798 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-16 18:38:50,042 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-16 18:38:52,044 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:39:01,419 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:39:01,421 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:39:01,422 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:39:19,527 ERROR [Log]  
+2022-12-16 18:39:29,404 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:39:29,405 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:39:29,406 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:39:33,819 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-16 18:39:35,855 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:39:46,175 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:39:46,176 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        CalenderHandling       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:39:46,177 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:39:47,179 INFO  [Log] Step No: 11 - Pass - before calendar handling 
+2022-12-16 18:39:59,257 ERROR [Log] before calendar handling 
+2022-12-16 18:45:03,071 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:45:03,078 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:45:03,078 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:45:04,104 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-16 18:45:10,049 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-16 18:45:13,064 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-16 18:45:19,103 ERROR [Log]  Delete User 
+2022-12-16 18:45:36,521 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:45:36,523 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:45:36,523 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:45:37,547 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-16 18:45:43,267 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-16 18:45:52,657 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-16 18:45:55,230 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:46:06,096 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:46:06,096 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:46:06,100 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:46:10,970 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-16 18:46:26,265 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-16 18:46:50,517 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-16 18:46:52,529 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:47:03,446 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:47:03,447 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:47:03,448 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:47:22,387 ERROR [Log]  
+2022-12-16 18:47:32,976 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:47:32,977 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:47:32,978 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:47:37,547 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-16 18:47:39,582 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-16 18:47:48,826 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:47:48,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        CalenderHandling       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-16 18:47:48,829 INFO  [Log] **************************************************************************************** 
+2022-12-16 18:47:49,830 INFO  [Log] Step No: 11 - Pass - before calendar handling 
+2022-12-16 18:48:01,975 ERROR [Log] before calendar handling 
+2022-12-17 20:55:57,391 INFO  [Log] **************************************************************************************** 
+2022-12-17 20:55:57,397 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-17 20:55:57,398 INFO  [Log] **************************************************************************************** 
+2022-12-17 20:55:58,425 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-17 20:56:04,486 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-17 20:56:14,073 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-17 20:56:17,412 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-17 20:56:31,521 INFO  [Log] **************************************************************************************** 
+2022-12-17 20:56:31,523 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-17 20:56:31,524 INFO  [Log] **************************************************************************************** 
