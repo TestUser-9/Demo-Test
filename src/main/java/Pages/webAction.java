@@ -8,6 +8,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.time.Duration;
 import java.util.Base64;
 import java.util.Date;
 import java.util.HashMap;
@@ -17,17 +18,12 @@ import java.util.Properties;
 import javax.activation.DataHandler;
 import javax.activation.DataSource;
 import javax.activation.FileDataSource;
-import javax.mail.Address;
 import javax.mail.BodyPart;
-import javax.mail.Folder;
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.Multipart;
-import javax.mail.NoSuchProviderException;
-import javax.mail.Part;
 import javax.mail.PasswordAuthentication;
 import javax.mail.Session;
-import javax.mail.Store;
 import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeBodyPart;
@@ -35,7 +31,6 @@ import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 
 import org.apache.log4j.xml.DOMConfigurator;
-import org.apache.pdfbox.pdmodel.interactive.viewerpreferences.PDViewerPreferences.PRINT_SCALING;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -52,13 +47,13 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.Listeners;
 
 import com.relevantcodes.extentreports.ExtentTest;
 //import com.aventstack.extentreports.ExtentTest;
@@ -70,7 +65,6 @@ import Framework.ExtentReport;
 import Framework.Log;
 import Framework.PropertyReader;
 import Framework.ScreenShotCapture;
-import Test.TestNGXML;
 
 
 public class webAction {
@@ -95,8 +89,6 @@ public class webAction {
 	String cell_Value1;
 	String numbericexcelCellValue;
 	String cell1_value;
-	public static int a;
-	public static int testA;
 //	 Properties properties = null;
 //	 Session session = null;
 //	 Store store = null;
@@ -141,16 +133,15 @@ public class webAction {
 	}
 	@BeforeClass
 	//This method is for before class operations
-	public int before_Class() throws IOException{
+	public void before_Class(ITestContext testName) throws IOException{
 		try {
-			launchDriver(browserHashMap.get(""+TestNGXML.b));
-			TestNGXML.b++;
+			System.out.println(browserHashMap.get(testName.getName()));
+			launchDriver(browserHashMap.get(testName.getName()));
 			getUrl();
 		} catch (Exception e) {
 			e.printStackTrace();
 			Assert.fail("System could not navigate to application URL");
 		}
-		return TestNGXML.b;
 	}
 
 	@AfterClass
@@ -295,7 +286,7 @@ public class webAction {
 		String byLocator=locatorsHashMap.get(element_Name);
 		String valueLocator= elementHashMap.get(element_Name);
 
-		WebDriverWait switchWait = new WebDriverWait(driver, 10);
+		WebDriverWait switchWait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		try {
 			switch (byLocator) {
 			case "classname":
@@ -351,7 +342,7 @@ public class webAction {
 		valueLocator = String.format(valueLocator, value);
 		}
 
-		WebDriverWait switchWait = new WebDriverWait(driver, 10);
+		WebDriverWait switchWait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		try {
 			switch (byLocator) {
 			case "classname":
@@ -418,7 +409,7 @@ public class webAction {
 
 	//This method is to wait the driver upto the expected conditions
 	public void driverUntilWait(WebElement element) {
-		WebDriverWait driverwait=new WebDriverWait(driver, 10);
+		WebDriverWait driverwait=new WebDriverWait (driver, Duration.ofSeconds(10));
 		driverwait.until(ExpectedConditions.elementToBeClickable(element));
 	}
 
@@ -567,9 +558,9 @@ public class webAction {
 		int rowCount = WorkSheet.getLastRowNum()-WorkSheet.getFirstRowNum();
 		for (int i = 0; i < rowCount+1; i++) {
 			Row row = WorkSheet.getRow(i);
-			Cell cell= row.getCell(1);
-			cell_Value = cell.toString();
-			if (row.getCell(6)!=null && row.getCell(3).toString().equalsIgnoreCase("Yes")) {
+			Cell cell= row.getCell(2);
+			Cell cell_brw= row.getCell(1);
+			/*if (row.getCell(6)!=null && row.getCell(3).toString().equalsIgnoreCase("Yes")) {
 				Cell cell1= row.getCell(6);
 				cell1_value=cell1.toString();
 				if (cell_Value.equalsIgnoreCase(inputVariable)) {
@@ -582,8 +573,8 @@ public class webAction {
 					Workbook.write(outputStream);
 					outputStream.close();
 				}
-			}else if 
-			(cell_Value.equalsIgnoreCase(inputVariable)&&row.getCell(3).toString().equalsIgnoreCase("Yes") ) {
+			}else */if 
+			((cell.toString()+"_"+cell_brw.toString()).equalsIgnoreCase(inputVariable)&&row.getCell(3).toString().equalsIgnoreCase("Yes") ) {
 				row.createCell(c_Value).setCellValue(inputValue);
 				if (Spath!=null) {
 					row.createCell(c_Value+1).setCellValue(Spath);
@@ -616,7 +607,7 @@ public class webAction {
 
 	@AfterMethod
 	//This method is to get the result or save the screenshot path
-	public void getResult(ITestResult result) {//listner
+	public void getResult(ITestResult result, ITestContext testName) {//listner
 		try {
 			String screenShotPath = "";
 			// creating object for ScreenShotCapture
@@ -635,14 +626,12 @@ public class webAction {
 				}
 				String spath=System.getProperty("user.dir") + File.separator + "src" + File.separator + "reports"
 						+ File.separator + screenShotPath + ".png";
-				excelFileWriterforTestNG(testHashMap.get(""+TestNGXML.testB),"Fail",spath);
-				TestNGXML.testB++;
+				//excelFileWriterforTestNG(testHashMap.get(testName.getName()),"Fail",spath);
 				testCaseStatus = "FAIL";
 			} else {
 				testCaseStatus = "PASS";
 				test.log(LogStatus.PASS, "PASS-Test case Executed Successfully");
-				excelFileWriterforTestNG(testHashMap.get(""+TestNGXML.testB),"Pass",null);
-				TestNGXML.testB++;
+				//excelFileWriterforTestNG(testHashMap.get(testName.getName()),"Pass",null);
 			}
 			
 
@@ -812,5 +801,3 @@ public class webAction {
 //	    }
 
 }
-
-

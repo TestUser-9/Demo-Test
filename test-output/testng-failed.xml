@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Default Suite]">
-  <test thread-count="5" name="Command line test b3445efa-5098-4ef4-a6be-2280c14f3dbd(failed)">
+  <test thread-count="5" name="Test.TestUserDelete_Chrome(failed)">
     <classes>
       <class name="Test.TestUserDelete">
         <methods>
@@ -14,8 +14,8 @@
         </methods>
       </class> <!-- Test.TestUserDelete -->
     </classes>
-  </test> <!-- Command line test b3445efa-5098-4ef4-a6be-2280c14f3dbd(failed) -->
-  <test thread-count="5" name="Command line test 5ff9e8e9-a323-4c69-b5ba-24c2d111e055(failed)">
+  </test> <!-- Test.TestUserDelete_Chrome(failed) -->
+  <test thread-count="5" name="Test.leaveTest_Chrome(failed)">
     <classes>
       <class name="Test.leaveTest">
         <methods>
@@ -28,19 +28,5 @@
         </methods>
       </class> <!-- Test.leaveTest -->
     </classes>
-  </test> <!-- Command line test 5ff9e8e9-a323-4c69-b5ba-24c2d111e055(failed) -->
-  <test thread-count="5" name="Command line test 45c9945a-6a91-4467-b737-767b9b3e55fb(failed)">
-    <classes>
-      <class name="Test.calenderTest">
-        <methods>
-          <include name="calender_test"/>
-          <include name="getResult"/>
-          <include name="before_Class"/>
-          <include name="closeDriver"/>
-          <include name="before_suite"/>
-          <include name="logoutFromApplication"/>
-        </methods>
-      </class> <!-- Test.calenderTest -->
-    </classes>
-  </test> <!-- Command line test 45c9945a-6a91-4467-b737-767b9b3e55fb(failed) -->
+  </test> <!-- Test.leaveTest_Chrome(failed) -->
 </suite> <!-- Failed suite [Default Suite] -->

@@ -55,8 +55,8 @@ public class leavepagee extends webAction {
 		
 //		element("Leaveclick").click();
 //		Thread.sleep(3000);
-		element("Apply").click();
-		
+		element("apply").click();
+		Thread.sleep(3000);
 		Robot r = new Robot();
 		Thread.sleep(3000);
 		element("LeaveType");

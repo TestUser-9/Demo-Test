@@ -164,7 +164,7 @@ public class PdfReader {
 	 public static class CountImages extends PDFGraphicsStreamEngine {
 
 	    public int numImages = 0;
-	    private Set<COSStream> duplicates = new HashSet<>();
+	    private Set<COSStream> duplicates = new HashSet<COSStream>();
 	    
 	    protected CountImages(PDPage page) throws IOException
 	    {
@@ -230,7 +230,7 @@ public class PdfReader {
 		public void shadingFill(COSName shadingName) throws IOException {			
 		}
 	 
-	   }
+	   } 
 	}
 
 

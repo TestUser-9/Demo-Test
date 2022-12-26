@@ -22,13 +22,8 @@ import Pages.webAction;
 
 
 public class TestNGXML{
-
-	public static int b;
-	public static int testB;
-
 	
 	public void xml(String vartest) throws IOException, AWTException, InterruptedException {
-
 		String execution_value;
 		String cell_Value;
 		String variablename;
@@ -76,10 +71,6 @@ public class TestNGXML{
 			execution_value=execution.toString();
 			if (cell_Value.equalsIgnoreCase(vartest)&& execution_value.equalsIgnoreCase("Yes"))
 			{	
-				webAction.browserHashMap.put(""+webAction.a, row.getCell(4).toString());
-				webAction.testHashMap.put(""+webAction.testA, row.getCell(1).toString());
-				webAction.a++;
-				webAction.testA++;
 				int columnnum=row.getLastCellNum()-row.getFirstCellNum();
 				XmlTest xmltest_patricia = new XmlTest(xmlsuite_patricia);
 				for (int j = 0; j < columnnum; j++) {
@@ -103,6 +94,10 @@ public class TestNGXML{
 				String class_V = excelHashMap.get("TestClassName");
 				XmlClass xmlclass_patricia = new   XmlClass(class_V);
 				java.util.List<XmlClass> test= new ArrayList<XmlClass>();
+				xmltest_patricia.setName(class_V+"_"+excelHashMap.get("Browser Setup"));
+				System.out.println(class_V+"_"+excelHashMap.get("Browser Setup"));
+				webAction.browserHashMap.put(class_V+"_"+excelHashMap.get("Browser Setup"), row.getCell(4).toString());
+				webAction.testHashMap.put(class_V+"_"+excelHashMap.get("Browser Setup"), row.getCell(1).toString());
 				test.add(xmlclass_patricia);
 				xmltest_patricia.setXmlClasses(test);	
 			}	

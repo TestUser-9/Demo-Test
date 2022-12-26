@@ -531,3 +531,453 @@
 2022-12-17 20:56:31,521 INFO  [Log] **************************************************************************************** 
 2022-12-17 20:56:31,523 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
 2022-12-17 20:56:31,524 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:19:40,876 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:19:40,885 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-19 12:19:40,885 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:19:41,910 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-19 12:19:47,904 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-19 12:19:57,588 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-19 12:20:00,893 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-19 12:20:15,264 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:20:15,264 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-19 12:20:15,264 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:20:35,865 ERROR [Log]  
+2022-12-19 12:20:48,220 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:20:48,222 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-19 12:20:48,222 INFO  [Log] **************************************************************************************** 
+2022-12-19 12:20:58,564 ERROR [Log]  Login to Application 
+2022-12-19 15:27:28,911 INFO  [Log] **************************************************************************************** 
+2022-12-19 15:27:28,914 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-19 15:27:28,914 INFO  [Log] **************************************************************************************** 
+2022-12-19 15:27:29,923 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-19 15:27:35,286 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-19 15:27:44,511 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-19 15:27:46,852 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-19 15:27:53,471 INFO  [Log] **************************************************************************************** 
+2022-12-19 15:27:53,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-19 15:27:53,472 INFO  [Log] **************************************************************************************** 
+2022-12-19 15:28:10,251 ERROR [Log]  
+2022-12-19 15:28:20,522 INFO  [Log] **************************************************************************************** 
+2022-12-19 15:28:20,522 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-19 15:28:20,522 INFO  [Log] **************************************************************************************** 
+2022-12-19 15:28:24,876 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2022-12-19 15:28:26,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 10:39:30,345 INFO  [Log] **************************************************************************************** 
+2022-12-20 10:39:30,351 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 10:39:30,352 INFO  [Log] **************************************************************************************** 
+2022-12-20 10:39:31,384 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 10:39:37,307 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-20 10:39:46,833 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-20 10:39:49,710 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 10:40:01,723 INFO  [Log] **************************************************************************************** 
+2022-12-20 10:40:01,724 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 10:40:01,725 INFO  [Log] **************************************************************************************** 
+2022-12-20 10:40:20,899 ERROR [Log]  
+2022-12-20 10:40:48,021 INFO  [Log] **************************************************************************************** 
+2022-12-20 10:40:48,022 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 10:40:48,022 INFO  [Log] **************************************************************************************** 
+2022-12-20 10:40:52,799 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2022-12-20 10:40:54,843 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:09:00,533 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:09:00,540 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:09:00,541 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:09:01,568 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 14:09:07,470 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-20 14:09:17,398 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-20 14:09:20,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:09:29,425 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:09:29,425 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:09:29,426 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:09:47,636 ERROR [Log]  
+2022-12-20 14:09:58,683 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:09:58,683 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:09:58,683 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:10:03,025 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2022-12-20 14:10:05,072 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:13:52,786 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:13:52,793 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:13:52,794 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:13:53,821 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 14:13:59,637 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-20 14:14:08,937 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-20 14:14:11,829 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:14:20,121 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:14:20,122 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:14:20,123 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:14:38,429 ERROR [Log]  
+2022-12-20 14:14:48,233 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:14:48,235 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:14:48,235 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:14:52,556 INFO  [Log] Step No: 4 - Pass -  Login to Application 
+2022-12-20 14:14:54,598 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:19:13,271 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:19:13,280 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:19:13,281 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:19:32,539 ERROR [Log]  
+2022-12-20 14:21:28,439 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:21:28,446 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:21:28,447 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:21:50,998 ERROR [Log]  
+2022-12-20 14:24:28,571 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:24:28,578 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:24:28,579 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:24:55,828 ERROR [Log]  
+2022-12-20 14:32:22,570 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:32:22,577 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:32:22,577 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:32:48,280 ERROR [Log]  
+2022-12-20 14:35:05,274 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:35:05,280 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:35:05,281 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:35:31,171 ERROR [Log]  
+2022-12-20 14:52:45,503 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:52:45,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:52:45,509 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:52:46,533 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 14:52:52,457 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-20 14:53:01,835 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-20 14:53:04,629 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:53:39,126 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:53:39,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:53:39,127 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:54:08,222 ERROR [Log]  
+2022-12-20 14:56:01,498 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:56:01,506 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:56:01,507 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:56:02,535 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 14:56:08,237 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-20 14:56:11,258 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-20 14:56:15,095 ERROR [Log]  Delete User 
+2022-12-20 14:56:30,593 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:56:30,594 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:56:30,595 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:56:31,625 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 14:56:37,332 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-20 14:56:46,887 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-20 14:56:49,331 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:57:01,155 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:57:01,156 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:57:01,160 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:57:05,928 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-20 14:57:20,207 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-20 14:57:26,984 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-20 14:57:28,997 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 14:57:38,966 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:57:38,967 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:57:38,967 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:58:03,930 ERROR [Log]  
+2022-12-20 14:58:18,458 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:58:18,459 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 14:58:18,459 INFO  [Log] **************************************************************************************** 
+2022-12-20 14:58:22,397 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-20 14:58:24,433 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 16:11:18,413 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:11:18,415 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 16:11:18,416 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:11:19,441 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 16:11:24,866 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-20 16:11:27,885 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-20 16:11:31,094 ERROR [Log]  Delete User 
+2022-12-20 16:11:38,348 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:11:38,349 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 16:11:38,349 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:11:39,361 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-20 16:11:44,657 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-20 16:11:53,773 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-20 16:11:56,014 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 16:12:04,862 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:12:04,863 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 16:12:04,864 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:12:08,742 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-20 16:12:22,730 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-20 16:12:28,682 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-20 16:12:30,690 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-20 16:12:37,534 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:12:37,534 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 16:12:37,534 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:13:01,209 ERROR [Log]  
+2022-12-20 16:13:08,384 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:13:08,384 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-20 16:13:08,384 INFO  [Log] **************************************************************************************** 
+2022-12-20 16:13:12,259 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-20 16:13:14,295 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-21 10:28:59,102 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:28:59,109 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:28:59,110 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:00,136 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-21 10:29:02,455 ERROR [Log]  Login to Application 
+2022-12-21 10:29:13,594 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:13,597 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:29:13,598 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:14,628 INFO  [Log] Step No: 2 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-21 10:29:16,795 ERROR [Log]  Login to Application 
+2022-12-21 10:29:29,873 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:29,874 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:29:29,874 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:29,951 ERROR [Log]  Login to Application 
+2022-12-21 10:29:40,692 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:40,694 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:29:40,700 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:40,783 ERROR [Log]  
+2022-12-21 10:29:50,993 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:50,994 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:29:50,995 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:29:51,063 ERROR [Log]  Login to Application 
+2022-12-21 10:39:51,839 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:39:51,846 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:39:51,847 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:39:52,870 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-21 10:39:58,751 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-21 10:40:01,755 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-21 10:40:05,124 ERROR [Log]  Delete User 
+2022-12-21 10:40:16,166 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:40:16,167 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:40:16,168 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:40:17,198 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-21 10:40:22,908 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-21 10:40:32,235 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-21 10:40:34,575 WARN  [WebSocketHandler] onError 
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-21 10:40:34,876 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-21 10:40:45,781 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:40:45,784 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:40:45,785 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:40:50,112 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-21 10:41:03,947 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-21 10:41:09,910 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-21 10:41:11,924 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-21 10:41:27,741 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:41:27,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:41:27,743 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:41:52,815 ERROR [Log]  
+2022-12-21 10:42:03,521 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:42:03,522 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-21 10:42:03,523 INFO  [Log] **************************************************************************************** 
+2022-12-21 10:42:07,893 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-21 10:42:09,921 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-25 10:23:37,389 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:23:37,391 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 10:23:37,392 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:23:38,408 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-25 10:23:43,815 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-25 10:23:46,840 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-25 10:23:50,525 ERROR [Log]  Delete User 
+2022-12-25 10:24:01,676 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:24:01,677 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 10:24:01,677 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:24:02,688 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-25 10:24:07,955 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-25 10:24:16,961 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-25 10:24:19,157 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-25 10:24:30,454 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:24:30,455 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 10:24:30,456 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:24:34,282 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-25 10:24:48,128 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-25 10:24:55,396 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-25 10:24:57,400 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-25 10:25:09,487 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:25:09,487 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 10:25:09,487 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:25:39,891 ERROR [Log]  
+2022-12-25 10:25:50,728 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:25:50,728 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 10:25:50,728 INFO  [Log] **************************************************************************************** 
+2022-12-25 10:25:55,080 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-25 10:25:57,106 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-25 12:10:42,302 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:10:42,303 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 12:10:42,304 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:10:43,322 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-25 12:10:48,720 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-25 12:10:51,737 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-25 12:10:55,411 ERROR [Log]  Delete User 
+2022-12-25 12:11:05,113 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:11:05,113 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 12:11:05,113 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:11:06,127 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-25 12:11:12,646 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-25 12:11:21,774 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-25 12:11:23,970 WARN  [WebSocketHandler] onError 
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-25 12:11:24,019 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-25 12:11:35,153 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:11:35,155 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 12:11:35,155 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:11:39,059 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-25 12:11:51,922 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-25 12:11:58,714 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-25 12:12:00,726 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-25 12:12:10,246 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:12:10,247 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 12:12:10,247 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:12:34,650 ERROR [Log]  
+2022-12-25 12:12:44,496 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:12:44,496 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-25 12:12:44,496 INFO  [Log] **************************************************************************************** 
+2022-12-25 12:12:48,358 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-25 12:12:50,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-26 20:24:50,487 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:24:50,492 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 20:24:50,492 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:24:51,517 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 20:24:57,345 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 20:25:00,373 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-26 20:25:05,805 ERROR [Log]  Delete User 
+2022-12-26 20:25:15,528 WARN  [WebSocketHandler] onError 
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-26 20:45:34,997 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:45:35,003 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 20:45:35,004 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:45:36,024 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 20:45:42,124 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 20:45:45,134 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-26 20:45:49,435 ERROR [Log]  Delete User 
+2022-12-26 20:45:58,182 WARN  [WebSocketHandler] onError 
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-26 20:52:05,735 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:52:05,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 20:52:05,742 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:52:06,767 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 20:52:12,756 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 20:52:15,784 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-26 20:52:21,478 ERROR [Log]  Delete User 
+2022-12-26 20:56:06,632 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:56:06,636 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 20:56:06,636 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:56:07,646 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 20:56:13,152 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 20:56:16,167 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-26 20:56:20,699 ERROR [Log]  Delete User 
+2022-12-26 20:58:33,964 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:58:33,968 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 20:58:33,968 INFO  [Log] **************************************************************************************** 
+2022-12-26 20:58:34,982 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 20:58:40,533 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 20:58:43,544 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-26 20:58:47,073 ERROR [Log]  Delete User 
+2022-12-26 21:08:04,779 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:08:04,783 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 21:08:04,783 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:08:05,797 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 21:08:11,204 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 21:08:20,497 INFO  [Log] Step No: 3 - Pass -  Login to Application 
+2022-12-26 21:08:22,742 WARN  [WebSocketHandler] onError 
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-26 21:08:22,973 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-26 21:09:36,762 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:09:36,766 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Delete User       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 21:09:36,767 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:09:37,794 INFO  [Log] Step No: 1 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 21:09:43,220 INFO  [Log] Step No: 2 - Pass -  Login to Application 
+2022-12-26 21:09:46,234 INFO  [Log] Step No: 3 - Pass -  Delete User 
+2022-12-26 21:09:49,996 ERROR [Log]  Delete User 
+2022-12-26 21:10:04,088 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:10:04,089 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_Login       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 21:10:04,089 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:10:05,107 INFO  [Log] Step No: 4 - Pass - User navigation to the OrangeHRM Application Page 
+2022-12-26 21:10:10,444 INFO  [Log] Step No: 5 - Pass -  Login to Application 
+2022-12-26 21:10:19,632 INFO  [Log] Step No: 6 - Pass -  Login to Application 
+2022-12-26 21:10:21,861 WARN  [WebSocketHandler] onError 
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-26 21:10:21,915 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-26 21:10:31,647 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:10:31,648 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 21:10:31,648 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:10:35,587 INFO  [Log] Step No: 7 - Pass -  Login to Application 
+2022-12-26 21:10:48,844 INFO  [Log] Step No: 8 - Pass -  Add User 
+2022-12-26 21:10:56,337 INFO  [Log] Step No: 9 - Pass - send email 
+2022-12-26 21:10:58,349 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
+2022-12-26 21:11:09,161 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:11:09,161 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Orange_LeaveUser       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 21:11:09,162 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:11:34,201 ERROR [Log]  
+2022-12-26 21:11:43,867 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:11:43,867 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$        Test_Orange_UserCreation       $$$$$$$$$$$$$$$$$$$$$ 
+2022-12-26 21:11:43,868 INFO  [Log] **************************************************************************************** 
+2022-12-26 21:11:47,763 INFO  [Log] Step No: 10 - Pass -  Login to Application 
+2022-12-26 21:11:49,799 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXXX 
